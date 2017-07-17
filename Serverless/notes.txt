@@ -1,0 +1,4 @@
+AZURE-GROUP
+https://github.com/cmatskas/fullstack2017
+http://microsoftazurepass.com
+https://docs.google.com/presentation/d/1msh9M03n8C0CjTS7mvpCh1b-Nckqy68CvbVM8Gab-b8/edit#slide=id.p4
